@@ -1,2 +1,3 @@
-# css-selectors
-Online Course - CSS Selectors
+# CSS Selectors - Online Course on Udemy ($10.99)
+
+Learn [CSS Selectors](https://www.udemy.com/css3-selectors-h/?couponCode=AD_WORDS) by taking [just one course](https://www.udemy.com/css3-selectors-h/?couponCode=AD_WORDS)
